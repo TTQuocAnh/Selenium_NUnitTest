@@ -1,0 +1,12 @@
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\bin\Debug\net6.0\Nunit_test.deps.json
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\bin\Debug\net6.0\Nunit_test.dll
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\bin\Debug\net6.0\Nunit_test.pdb
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.dll
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\refint\Nunit_test.dll
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\Nunit_test.pdb
+D:\VisualStudio_SourceCode\SourceCode C#\Nunit_test_sele\Calculator\obj\Debug\net6.0\ref\Nunit_test.dll
