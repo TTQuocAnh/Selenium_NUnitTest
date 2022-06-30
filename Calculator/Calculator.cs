@@ -8,22 +8,7 @@ namespace Nunit_test
 {
     public class Calculator
     {
-        //testing of Topic
-        public int Add(int x, int y)
-        {
-            return x + y;
-        }
-
-        public int Subtract(int x, int y)
-        {
-            return x - y;
-        }
-
-        public double DienTichHinhChuNhat(double x, double y)
-        {
-            return x * y;
-        }
-
+       
         //testing of LAB
         public bool CheckNamNhuan(int year)
         {
